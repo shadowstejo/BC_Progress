@@ -1,0 +1,23 @@
+BC_Progress License
+
+Copyright (c) 2026 SJo
+
+This project is licensed under the PolyForm Noncommercial License 1.0.0:
+https://polyformproject.org/licenses/noncommercial/1.0.0/
+
+Additional Terms (apply to all use of this repository):
+
+1) No Commercial Use
+   Any commercial use is prohibited.
+
+2) No AI / ML Use
+   You may not use the Software, in whole or in part, for training, fine-tuning,
+   evaluation, inference, benchmarking, dataset creation, synthetic data generation,
+   or any other development or operation of machine learning or artificial intelligence
+   systems.
+
+3) Private Use Allowed
+   Private, personal, and non-commercial use is permitted under the terms above.
+
+If there is any conflict between these Additional Terms and another license text,
+these Additional Terms control for this repository.

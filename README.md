@@ -99,4 +99,11 @@ Use **Options → Refresh Images** to clear cached icon files and reload them.
 
 ## 📄 License
 
-MIT License. See [LICENSE](LICENSE) for details.
+This repository is **source-available** under:
+
+- **PolyForm Noncommercial 1.0.0**
+- **Additional Terms** in this repository, including:
+  - no commercial use
+  - no AI/ML use
+
+See [LICENSE](LICENSE) for the full terms.
