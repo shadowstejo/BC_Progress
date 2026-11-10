@@ -1,0 +1,626 @@
+﻿[
+    {
+        "Category":  "rare",
+        "Name":  "Acrobat Cats",
+        "ResolvedTitle":  "Stilts Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Avalokitesvara Cat",
+        "ResolvedTitle":  "Bodhisattva Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Awakened Bahamut Cat",
+        "ResolvedTitle":  "Bahamut Cat (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "uber_rare",
+        "Name":  "B.C.S. Lionheart",
+        "ResolvedTitle":  "Mighty Drednot (Uber Rare Cat)",
+        "RarityCats":  "Category:Uber Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Brainwashed Mythic Titan",
+        "ResolvedTitle":  "Brainwashed Titan Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Burgle Boss Cat (Prime)",
+        "ResolvedTitle":  "Burgle Boss Cat (Retired) (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Cameraman Cat",
+        "ResolvedTitle":  "Mer-Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Can Can Cat",
+        "ResolvedTitle":  "Hip Hop Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Captain Cat",
+        "ResolvedTitle":  "Pirate Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Cat Eastwood",
+        "ResolvedTitle":  "Cat Gunslinger (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Cat Projector",
+        "ResolvedTitle":  "Cat Toaster (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Catasaurus",
+        "ResolvedTitle":  "Jurassic Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Catellite",
+        "ResolvedTitle":  "Rover Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Catorpedo",
+        "ResolvedTitle":  "Meowla Meowla (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Chill Cat",
+        "ResolvedTitle":  "Wheel Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Cinnabar Egg: N202",
+        "ResolvedTitle":  "Ancient Egg: N202 (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Commander Cat",
+        "ResolvedTitle":  "Lieutenant Cat (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Cooldown Cat",
+        "ResolvedTitle":  "Flower Cat (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Corrupted Psychocat",
+        "ResolvedTitle":  "Psychocat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Courier Cat",
+        "ResolvedTitle":  "Ancient Egg: N101 (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Crazed Brave Cat",
+        "ResolvedTitle":  "Crazed Axe Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Crazed Macho Cat",
+        "ResolvedTitle":  "Crazed Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Crazed Wall Cat",
+        "ResolvedTitle":  "Crazed Tank Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Crazed Whale Cat",
+        "ResolvedTitle":  "Crazed Fish Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Cyberpunk Cat",
+        "ResolvedTitle":  "Nerd Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Cyborg Cat",
+        "ResolvedTitle":  "Salon Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "normal",
+        "Name":  "Dark Cat",
+        "ResolvedTitle":  "Axe Cat (Normal Cat)",
+        "RarityCats":  "Category:Normal Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Dark Emperor Catdam",
+        "ResolvedTitle":  "Li\u0027l Nyandam (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "normal",
+        "Name":  "Dragon Cat",
+        "ResolvedTitle":  "Lizard Cat (Normal Cat)",
+        "RarityCats":  "Category:Normal Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Drama Cats",
+        "ResolvedTitle":  "Figure Skating Cats (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Dreaming Sakura Cat",
+        "ResolvedTitle":  "Sakura the Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Drunken Master Cat X",
+        "ResolvedTitle":  "Kung Fu Cat X (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "normal",
+        "Name":  "Eraser Cat",
+        "ResolvedTitle":  "Tank Cat (Normal Cat)",
+        "RarityCats":  "Category:Normal Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Fishman Cat",
+        "ResolvedTitle":  "Swimmer Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Flamenco Cat",
+        "ResolvedTitle":  "Matador Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Frog Ninja Cat",
+        "ResolvedTitle":  "Ninja Cat (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Gilgamesh \u0026 Kotomine Cats",
+        "ResolvedTitle":  "Kotomine \u0026 Gilgamesh Cats (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Grudge Cat",
+        "ResolvedTitle":  "Salaryman Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Heavyweight Cat",
+        "ResolvedTitle":  "Welterweight Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Heroic Spirit Rider Cat",
+        "ResolvedTitle":  "Rider the Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Housewife Cat",
+        "ResolvedTitle":  "Vaulter Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "iCat",
+        "ResolvedTitle":  "Apple Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "uber_rare",
+        "Name":  "Immortal Shingen",
+        "ResolvedTitle":  "Takeda Shingen (Uber Rare Cat)",
+        "RarityCats":  "Category:Uber Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "normal",
+        "Name":  "Jamiera Cat",
+        "ResolvedTitle":  "Titan Cat (Normal Cat)",
+        "RarityCats":  "Category:Normal Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Li\u0027l Brave Cat",
+        "ResolvedTitle":  "Li\u0027l Axe Cat (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Li\u0027l Dragon Cat",
+        "ResolvedTitle":  "Li\u0027l Lizard Cat (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Li\u0027l Macho Cat",
+        "ResolvedTitle":  "Li\u0027l Cat (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Li\u0027l Sexy Legs Cat",
+        "ResolvedTitle":  "Li\u0027l Gross Cat (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Li\u0027l UFO Cat",
+        "ResolvedTitle":  "Li\u0027l Bird Cat (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Li\u0027l Whale Cat",
+        "ResolvedTitle":  "Li\u0027l Fish Cat (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "normal",
+        "Name":  "Lion Cat",
+        "ResolvedTitle":  "Cow Cat (Normal Cat)",
+        "RarityCats":  "Category:Normal Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "normal",
+        "Name":  "Macho Cat",
+        "ResolvedTitle":  "Cat (Normal Cat)",
+        "RarityCats":  "Category:Normal Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Mage Rin Cat",
+        "ResolvedTitle":  "Rin the Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Major Space Cat",
+        "ResolvedTitle":  "Space Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Masai Cat",
+        "ResolvedTitle":  "Pogo Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Medal Emperor",
+        "ResolvedTitle":  "Medal King (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Medalist Cat",
+        "ResolvedTitle":  "Nymph Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Michelangelo Cat",
+        "ResolvedTitle":  "Bronze Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Miss MONEKO",
+        "ResolvedTitle":  "Moneko (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Novice Mage Shirou Cat",
+        "ResolvedTitle":  "Shirou the Cat (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Pizza Cat",
+        "ResolvedTitle":  "Weightlifter Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Puppetmaster Cat",
+        "ResolvedTitle":  "Clockwork Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Ramen Cat",
+        "ResolvedTitle":  "Rocker Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Rampage Cats",
+        "ResolvedTitle":  "Sports Day Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Roe Cat",
+        "ResolvedTitle":  "Sushi Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Saber Alter Cat",
+        "ResolvedTitle":  "Saber the Cat (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Seafarer Cat",
+        "ResolvedTitle":  "Surfer Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Sexy Bathtub Cat",
+        "ResolvedTitle":  "Bath Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "normal",
+        "Name":  "Sexy Legs Cat",
+        "ResolvedTitle":  "Gross Cat (Normal Cat)",
+        "RarityCats":  "Category:Normal Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Shigong Cat",
+        "ResolvedTitle":  "Wushu Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "uber_rare",
+        "Name":  "The Death Moon",
+        "ResolvedTitle":  "Princess Kaguya (Uber Rare Cat)",
+        "RarityCats":  "Category:Uber Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "The Kitty of Liberty",
+        "ResolvedTitle":  "Fencer Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "rare",
+        "Name":  "Thor Cat",
+        "ResolvedTitle":  "Viking Cat (Rare Cat)",
+        "RarityCats":  "Category:Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "normal",
+        "Name":  "UFO Cat",
+        "ResolvedTitle":  "Bird Cat (Normal Cat)",
+        "RarityCats":  "Category:Normal Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Unicycle Cat",
+        "ResolvedTitle":  "Tricycle Cat (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "special",
+        "Name":  "Val Val Cat",
+        "ResolvedTitle":  "Bean Cats (Special Cat)",
+        "RarityCats":  "Category:Special Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "super_rare",
+        "Name":  "Waitress Cat",
+        "ResolvedTitle":  "Cheerleader Cat (Super Rare Cat)",
+        "RarityCats":  "Category:Super Rare Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    },
+    {
+        "Category":  "normal",
+        "Name":  "Whale Cat",
+        "ResolvedTitle":  "Fish Cat (Normal Cat)",
+        "RarityCats":  "Category:Normal Cats",
+        "Confidence":  0.82,
+        "Reason":  "direct different title"
+    }
+]

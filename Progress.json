@@ -1,0 +1,1052 @@
+{
+  "Profile": {
+    "Game": "The Battle Cats",
+    "FormatVersion": "1.0",
+    "LastUpdated": "2026-11-10"
+  },
+  "Categories": {
+    "normal": [
+      {
+        "Name": "Macho Cat",
+        "LevelBase": 20,
+        "LevelPlus": 8,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 0
+      },
+      {
+        "Name": "Eraser Cat",
+        "LevelBase": 20,
+        "LevelPlus": 8,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 1
+      },
+      {
+        "Name": "Dark Cat",
+        "LevelBase": 26,
+        "LevelPlus": 9,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 2
+      },
+      {
+        "Name": "Sexy Legs Cat",
+        "LevelBase": 20,
+        "LevelPlus": 7,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 3
+      },
+      {
+        "Name": "UFO Cat",
+        "LevelBase": 20,
+        "LevelPlus": 9,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 5
+      },
+      {
+        "Name": "Lion Cat",
+        "LevelBase": 20,
+        "LevelPlus": 11,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 4
+      },
+      {
+        "Name": "Whale Cat",
+        "LevelBase": 20,
+        "LevelPlus": 5,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 6
+      },
+      {
+        "Name": "Dragon Cat",
+        "LevelBase": 20,
+        "LevelPlus": 2,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 7
+      },
+      {
+        "Name": "Jamiera Cat",
+        "LevelBase": 20,
+        "LevelPlus": 10,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 8
+      }
+    ],
+    "special": [
+      {
+        "Name": "Li\u0027l Macho Cat",
+        "LevelBase": 40,
+        "LevelPlus": 1,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 15
+      },
+      {
+        "Name": "Li\u0027l Brave Cat",
+        "LevelBase": 34,
+        "LevelPlus": 6,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 16
+      },
+      {
+        "Name": "Li\u0027l Sexy Legs Cat",
+        "LevelBase": 30,
+        "LevelPlus": 2,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 18
+      },
+      {
+        "Name": "Li\u0027l UFO Cat",
+        "LevelBase": 30,
+        "LevelPlus": 1,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 19
+      },
+      {
+        "Name": "Li\u0027l Whale Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 20
+      },
+      {
+        "Name": "Li\u0027l Dragon Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 21
+      },
+      {
+        "Name": "Li\u0027l Mythical Titan Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 22
+      },
+      {
+        "Name": "Holy Valkyrie",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 23
+      },
+      {
+        "Name": "Awakened Bahamut Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 24
+      },
+      {
+        "Name": "Ururun Wolf",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 25
+      },
+      {
+        "Name": "Val Val Cat",
+        "LevelBase": 31,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 2
+      },
+      {
+        "Name": "Miss MONEKO",
+        "LevelBase": 31,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 3
+      },
+      {
+        "Name": "Cooldown Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 4
+      },
+      {
+        "Name": "Frog Ninja Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 0
+      },
+      {
+        "Name": "Unicycle Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 1
+      },
+      {
+        "Name": "Cinnabar Egg: N202",
+        "LevelBase": 15,
+        "LevelPlus": 3,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 9
+      },
+      {
+        "Name": "Ancient Egg: N208",
+        "LevelBase": 30,
+        "LevelPlus": 2,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 10
+      },
+      {
+        "Name": "Catorpedo",
+        "LevelBase": 15,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 14
+      },
+      {
+        "Name": "Novice Mage Shirou Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "Current evolved form; same unit line as Shirou the Cat.",
+        "ViewOrder": 12
+      },
+      {
+        "Name": "Saber Alter Cat",
+        "LevelBase": 49,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 17
+      },
+      {
+        "Name": "Li\u0027l Sakura CC",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "Current evolved form; same unit line as Li\u0027l Sakura.",
+        "ViewOrder": 11
+      },
+      {
+        "Name": "Commander Cat",
+        "LevelBase": 15,
+        "LevelPlus": 1,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "Current evolved form; same unit line as Commander.",
+        "ViewOrder": 8
+      },
+      {
+        "Name": "Medal Emperor",
+        "LevelBase": 15,
+        "LevelPlus": 1,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "Current evolved form; same unit line as Medal King.",
+        "ViewOrder": 7
+      },
+      {
+        "Name": "King Kuwagata",
+        "LevelBase": 24,
+        "LevelPlus": 2,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 6
+      },
+      {
+        "Name": "Golden Kabuto",
+        "LevelBase": 24,
+        "LevelPlus": 4,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 5
+      },
+      {
+        "Name": "Dark Emperor Catdam",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "Evolved form of Li\u0027l Nyandam; same unit line.",
+        "ViewOrder": 26
+      },
+      {
+        "Name": "Burgle Boss Cat (Prime)",
+        "LevelBase": 26,
+        "LevelPlus": 4,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "Current evolved form; same unit line as Burgle Boss Cat (Retired).",
+        "ViewOrder": 13
+      }
+    ],
+    "rare": [
+      {
+        "Name": "Masai Cat",
+        "LevelBase": 30,
+        "LevelPlus": 4,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 0
+      },
+      {
+        "Name": "Cyborg Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 2
+      },
+      {
+        "Name": "Enchantress Cat",
+        "LevelBase": 30,
+        "LevelPlus": 4,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 9
+      },
+      {
+        "Name": "Cupid Cat",
+        "LevelBase": 30,
+        "LevelPlus": 2,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 10
+      },
+      {
+        "Name": "Elemental Duelist",
+        "LevelBase": 30,
+        "LevelPlus": 3,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 11
+      },
+      {
+        "Name": "Cat Eastwood",
+        "LevelBase": 30,
+        "LevelPlus": 3,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 12
+      },
+      {
+        "Name": "Acrobat Cats",
+        "LevelBase": 31,
+        "LevelPlus": 3,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 13
+      },
+      {
+        "Name": "Ramen Cat",
+        "LevelBase": 37,
+        "LevelPlus": 6,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 15
+      },
+      {
+        "Name": "Cameraman Cat",
+        "LevelBase": 33,
+        "LevelPlus": 1,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 16
+      },
+      {
+        "Name": "Thaumaturge",
+        "LevelBase": 30,
+        "LevelPlus": 2,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 18
+      },
+      {
+        "Name": "Weedwacker Cat",
+        "LevelBase": 30,
+        "LevelPlus": 3,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 35
+      },
+      {
+        "Name": "Heavyweight Cat",
+        "LevelBase": 30,
+        "LevelPlus": 2,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 19
+      },
+      {
+        "Name": "Shigong Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 22
+      },
+      {
+        "Name": "Rampage Cats",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 36
+      },
+      {
+        "Name": "Corrupted Psychocat",
+        "LevelBase": 40,
+        "LevelPlus": 1,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 17
+      },
+      {
+        "Name": "Chill Cat",
+        "LevelBase": 30,
+        "LevelPlus": 3,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 1
+      },
+      {
+        "Name": "Catasaurus",
+        "LevelBase": 30,
+        "LevelPlus": 1,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 3
+      },
+      {
+        "Name": "Thor Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 4
+      },
+      {
+        "Name": "Captain Cat",
+        "LevelBase": 15,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 5
+      },
+      {
+        "Name": "Monk",
+        "LevelBase": 25,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 6
+      },
+      {
+        "Name": "Fisherman",
+        "LevelBase": 30,
+        "LevelPlus": 2,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 7
+      },
+      {
+        "Name": "Necromancer",
+        "LevelBase": 30,
+        "LevelPlus": 4,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 8
+      },
+      {
+        "Name": "Plane Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 14
+      },
+      {
+        "Name": "Catellite",
+        "LevelBase": 35,
+        "LevelPlus": 2,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 20
+      },
+      {
+        "Name": "Flamenco Cat",
+        "LevelBase": 32,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 21
+      },
+      {
+        "Name": "Drunken Master Cat X",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 24
+      },
+      {
+        "Name": "Michelangelo Cat",
+        "LevelBase": 13,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 25
+      },
+      {
+        "Name": "Major Space Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 26
+      },
+      {
+        "Name": "Pair rope jump cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 27
+      },
+      {
+        "Name": "Puppetmaster Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 28
+      },
+      {
+        "Name": "Li\u0027l Shirou CC",
+        "LevelBase": 54,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 30
+      },
+      {
+        "Name": "Dreaming Sakura Cat",
+        "LevelBase": 30,
+        "LevelPlus": 2,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 31
+      },
+      {
+        "Name": "Mage Rin Cat",
+        "LevelBase": 26,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 32
+      },
+      {
+        "Name": "Heroic Spirit Archer",
+        "LevelBase": 26,
+        "LevelPlus": 2,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 33
+      },
+      {
+        "Name": "Heroic Spirit Rider Cat",
+        "LevelBase": 25,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 34
+      },
+      {
+        "Name": "Grudge Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 23
+      },
+      {
+        "Name": "Courier Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "True Form of Ancient Egg: N101.",
+        "ViewOrder": 29
+      }
+    ],
+    "super_rare": [
+      {
+        "Name": "Can Can Cat",
+        "LevelBase": 40,
+        "LevelPlus": 1,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 0
+      },
+      {
+        "Name": "Housewife Cat",
+        "LevelBase": 7,
+        "LevelPlus": 4,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 11
+      },
+      {
+        "Name": "Avalokitesvara Cat",
+        "LevelBase": 30,
+        "LevelPlus": 1,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 6
+      },
+      {
+        "Name": "The Kitty of Liberty",
+        "LevelBase": 30,
+        "LevelPlus": 3,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 12
+      },
+      {
+        "Name": "Pizza Cat",
+        "LevelBase": 32,
+        "LevelPlus": 1,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 7
+      },
+      {
+        "Name": "Drama Cats",
+        "LevelBase": 30,
+        "LevelPlus": 1,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 8
+      },
+      {
+        "Name": "Cat Projector",
+        "LevelBase": 30,
+        "LevelPlus": 28,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 9
+      },
+      {
+        "Name": "Medalist Cat",
+        "LevelBase": 42,
+        "LevelPlus": 1,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 13
+      },
+      {
+        "Name": "Brainwashed Mythic Titan",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 14
+      },
+      {
+        "Name": "Seafarer Cat",
+        "LevelBase": 35,
+        "LevelPlus": 11,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 10
+      },
+      {
+        "Name": "Fishman Cat",
+        "LevelBase": 30,
+        "LevelPlus": 2,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "Moved from Rare per user correction.",
+        "ViewOrder": 4
+      },
+      {
+        "Name": "Sexy Bathtub Cat",
+        "LevelBase": 30,
+        "LevelPlus": 1,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 5
+      },
+      {
+        "Name": "Roe Cat",
+        "LevelBase": 39,
+        "LevelPlus": 3,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "Moved from Rare per user correction.",
+        "ViewOrder": 1
+      },
+      {
+        "Name": "Cyberpunk Cat",
+        "LevelBase": 31,
+        "LevelPlus": null,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 2
+      },
+      {
+        "Name": "iCat",
+        "LevelBase": 30,
+        "LevelPlus": 2,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 3
+      },
+      {
+        "Name": "Crazed Macho Cat",
+        "LevelBase": 20,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 15
+      },
+      {
+        "Name": "Crazed Wall Cat",
+        "LevelBase": 20,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 16
+      },
+      {
+        "Name": "Crazed Whale Cat",
+        "LevelBase": 20,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 18
+      },
+      {
+        "Name": "Crazed Brave Cat",
+        "LevelBase": 0,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 17
+      },
+      {
+        "Name": "Crazed Gross Cat",
+        "LevelBase": null,
+        "LevelPlus": null,
+        "Owned": false,
+        "LevelUnknown": false,
+        "Notes": "Noch nicht vorhanden",
+        "ViewOrder": null
+      },
+      {
+        "Name": "Crazed Lizard Cat",
+        "LevelBase": null,
+        "LevelPlus": null,
+        "Owned": false,
+        "LevelUnknown": false,
+        "Notes": "Noch nicht vorhanden",
+        "ViewOrder": null
+      },
+      {
+        "Name": "Crazed Cow Cat",
+        "LevelBase": null,
+        "LevelPlus": null,
+        "Owned": false,
+        "LevelUnknown": false,
+        "Notes": "Noch nicht vorhanden",
+        "ViewOrder": null
+      },
+      {
+        "Name": "Crazed Bird Cat",
+        "LevelBase": null,
+        "LevelPlus": null,
+        "Owned": false,
+        "LevelUnknown": false,
+        "Notes": "Noch nicht vorhanden",
+        "ViewOrder": null
+      },
+      {
+        "Name": "Crazed Titan Cat",
+        "LevelBase": null,
+        "LevelPlus": null,
+        "Owned": false,
+        "LevelUnknown": false,
+        "Notes": "Noch nicht vorhanden",
+        "ViewOrder": null
+      },
+      {
+        "Name": "Waitress Cat",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "Noch nicht vorhanden",
+        "ViewOrder": 19
+      },
+      {
+        "Name": "Gilgamesh \u0026 Kotomine Cats",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "Current evolved form; same unit line as Kotomine \u0026 Gilgamesh Cats.",
+        "ViewOrder": 20
+      }
+    ],
+    "uber_rare": [
+      {
+        "Name": "Rin Tohsaka CC",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 5
+      },
+      {
+        "Name": "Illyasviel CC",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 6
+      },
+      {
+        "Name": "Lancer CC",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 7
+      },
+      {
+        "Name": "True Assassin CC",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 8
+      },
+      {
+        "Name": "Immortal Shingen",
+        "LevelBase": 27,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "True Form of Takeda Shingen.",
+        "ViewOrder": 0
+      },
+      {
+        "Name": "Music Fest Thundia \u03B2",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "Current evolved form; normal form is the same unit.",
+        "ViewOrder": 1
+      },
+      {
+        "Name": "The Death Moon",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 2
+      },
+      {
+        "Name": "B.C.S. Lionheart",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 3
+      },
+      {
+        "Name": "Lone Moon Lunos",
+        "LevelBase": 30,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": null,
+        "ViewOrder": 9
+      },
+      {
+        "Name": "Saber Alter CC",
+        "LevelBase": 40,
+        "LevelPlus": 0,
+        "Owned": true,
+        "LevelUnknown": false,
+        "Notes": "True Form of Saber (Fate/Stay Night collaboration Uber Rare).",
+        "ViewOrder": 4
+      }
+    ]
+  },
+  "CampaignProgress": [
+    {
+      "Campaign": "Empire of Cats",
+      "Chapter": "Chapter 1",
+      "Stage": ""
+    },
+    {
+      "Campaign": "Empire of Cats",
+      "Chapter": "Chapter 2",
+      "Stage": ""
+    },
+    {
+      "Campaign": "Empire of Cats",
+      "Chapter": "Chapter 3",
+      "Stage": ""
+    },
+    {
+      "Campaign": "Into the Future",
+      "Chapter": "Chapter 1",
+      "Stage": ""
+    },
+    {
+      "Campaign": "Into the Future",
+      "Chapter": "Chapter 2",
+      "Stage": ""
+    },
+    {
+      "Campaign": "Into the Future",
+      "Chapter": "Chapter 3",
+      "Stage": ""
+    },
+    {
+      "Campaign": "Cats of the Cosmos",
+      "Chapter": "Chapter 1",
+      "Stage": ""
+    },
+    {
+      "Campaign": "Cats of the Cosmos",
+      "Chapter": "Chapter 2",
+      "Stage": ""
+    },
+    {
+      "Campaign": "Cats of the Cosmos",
+      "Chapter": "Chapter 3",
+      "Stage": ""
+    },
+    {
+      "Campaign": "Story of Legends",
+      "Chapter": "General",
+      "Stage": ""
+    }
+  ]
+}

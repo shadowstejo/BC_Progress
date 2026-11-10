@@ -1,0 +1,35 @@
+# Build output
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# App runtime/cache data
+cache/
+
+# Local app data (optional - keeps personal progress out of git)
+# Progress.local.json #keeping this in git for now so everyone can test and modify if needed
