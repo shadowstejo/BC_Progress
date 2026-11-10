@@ -1,6 +1,6 @@
 # BC_Progress
 
-A lightweight Windows desktop app to track your **The Battle Cats** roster and campaign progress.
+A lightweight Windows desktop app to track your **The Battle Cats** roster and campaign progress (the later is still in progress).
 
 ## ✨ Features
 
